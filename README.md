@@ -16,4 +16,6 @@ Schedule Jobs:
 
 pip install scrapy selenium psycopg2 schedule scrapy-do
 
+cd main/main/spiders
+
 python spider.py
